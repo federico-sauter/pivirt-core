@@ -1,0 +1,14 @@
+PiVirt-Core Commercial License Agreement
+
+This Commercial License allows you to use, modify, and distribute PiVirt-Core in proprietary projects without adhering to the terms of the LGPL v3 license.
+
+If you are interested in obtaining a commercial license, please contact:
+
+Email: pivirt@pm.me
+
+Terms of the commercial license include:
+1. Freedom to integrate and modify the library in proprietary software without open-sourcing modifications.
+2. Access to premium support (optional, add if offered).
+3. The rights to use the library in enterprise or commercial products.
+
+For more details, please reach out to the contact email above.

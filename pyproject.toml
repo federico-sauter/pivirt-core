@@ -1,0 +1,21 @@
+[project]
+name = "pivirt-core"
+version = "1.0.0"
+description = "A Python library to manage and test Raspberry Pi OS images with QEMU"
+readme = "README.md"
+license = {text = "GNU Lesser General Public License v3.0 or later (LGPL-3.0-or-later)"}
+authors = [{name = "Federico Sauter", email = "pivirt@pm.me"}]
+keywords = ["raspberry-pi", "rpi", "qemu", "virtualization", "ci-cd", "embedded-systems"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Documentation = "https://github.com/federico-sauter/pivirt-core"
+Source = "https://github.com/federico-sauter/pivirt-core"
+Contact = "https://github.com/federico-sauter/pivirt-core"
+
+[tool.black]
+line-length = 100
